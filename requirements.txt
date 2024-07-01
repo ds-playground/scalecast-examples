@@ -12,3 +12,6 @@ pyyaml
 ipywidgets
 scalecast
 tqdm
+numpy>=1.20.0
+tensorflow
+pandas_datareader
