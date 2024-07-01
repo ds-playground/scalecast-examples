@@ -12,8 +12,8 @@ pyyaml
 ipywidgets
 scalecast==0.19.8
 tqdm
-tensorflow
-typing-extensions<4.6.0
+tensorflow==2.16.2
+typing-extensions==4.12.2
 pandas_datareader
 # scikit-learn for Python 3.10.9
 numpy==1.22.0
